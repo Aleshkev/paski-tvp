@@ -18,7 +18,7 @@ for i in t:
         print(f"Podwójna spacja: {i}")
     met[j] = i
 
-s = "\n".join(sorted(t))
+s = "\n".join(sorted(t)) + "\n"
 
 print(f"Paski: {len(s.splitlines())}")
 
