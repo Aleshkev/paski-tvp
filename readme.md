@@ -4,8 +4,6 @@ Wszyscy uwielbiają paski TVP. Dlatego tutaj, w pliku [paski.txt](paski.txt), zg
 
 Jeżeli ktoś ma więcej pasków (zarówno krótszych biało-niebieskich jak i dłuższych czerwono-białych) lub wie gdzie je znaleźć, bardzo proszę [otworzyć Issue](https://github.com/Aleshkev/paski-tvp/issues/new). 
 
-Uważam, że w zbiorze są wszystkie paski wyemitowane od czerwca 2019 roku do czasu ostatniego commita w tym repozytorium.
-
 ## Do zrobienia
 
 - [ ] Więcej pasków (tylko skąd je wziąć?).
