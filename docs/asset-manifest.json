@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/paski-tvp/static/js/main.7b709ff1.chunk.js",
+    "main.js.map": "/paski-tvp/static/js/main.7b709ff1.chunk.js.map",
+    "runtime-main.js": "/paski-tvp/static/js/runtime-main.29aeed32.js",
+    "runtime-main.js.map": "/paski-tvp/static/js/runtime-main.29aeed32.js.map",
+    "static/js/2.00bce099.chunk.js": "/paski-tvp/static/js/2.00bce099.chunk.js",
+    "static/js/2.00bce099.chunk.js.map": "/paski-tvp/static/js/2.00bce099.chunk.js.map",
+    "index.html": "/paski-tvp/index.html",
+    "static/js/2.00bce099.chunk.js.LICENSE.txt": "/paski-tvp/static/js/2.00bce099.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29aeed32.js",
+    "static/js/2.00bce099.chunk.js",
+    "static/js/main.7b709ff1.chunk.js"
+  ]
+}
