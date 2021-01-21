@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/paski-tvp/static/js/main.31adeb15.chunk.js",
-    "main.js.map": "/paski-tvp/static/js/main.31adeb15.chunk.js.map",
-    "runtime-main.js": "/paski-tvp/static/js/runtime-main.29aeed32.js",
-    "runtime-main.js.map": "/paski-tvp/static/js/runtime-main.29aeed32.js.map",
-    "static/js/2.0f94beb3.chunk.js": "/paski-tvp/static/js/2.0f94beb3.chunk.js",
-    "static/js/2.0f94beb3.chunk.js.map": "/paski-tvp/static/js/2.0f94beb3.chunk.js.map",
+    "main.js": "/paski-tvp/static/js/main.39c228c3.chunk.js",
+    "main.js.map": "/paski-tvp/static/js/main.39c228c3.chunk.js.map",
+    "runtime-main.js": "/paski-tvp/static/js/runtime-main.74080080.js",
+    "runtime-main.js.map": "/paski-tvp/static/js/runtime-main.74080080.js.map",
+    "static/js/2.aa42580e.chunk.js": "/paski-tvp/static/js/2.aa42580e.chunk.js",
+    "static/js/2.aa42580e.chunk.js.map": "/paski-tvp/static/js/2.aa42580e.chunk.js.map",
     "index.html": "/paski-tvp/index.html",
-    "static/js/2.0f94beb3.chunk.js.LICENSE.txt": "/paski-tvp/static/js/2.0f94beb3.chunk.js.LICENSE.txt"
+    "static/js/2.aa42580e.chunk.js.LICENSE.txt": "/paski-tvp/static/js/2.aa42580e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.29aeed32.js",
-    "static/js/2.0f94beb3.chunk.js",
-    "static/js/main.31adeb15.chunk.js"
+    "static/js/runtime-main.74080080.js",
+    "static/js/2.aa42580e.chunk.js",
+    "static/js/main.39c228c3.chunk.js"
   ]
 }
